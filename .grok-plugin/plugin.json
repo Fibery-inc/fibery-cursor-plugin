@@ -1,0 +1,14 @@
+{
+  "name": "fibery",
+  "version": "0.1.0",
+  "description": "Fibery MCP server packaged as a Cursor plugin",
+  "author": {
+    "name": "Fibery",
+    "url": "https://fibery.com"
+  },
+  "homepage": "https://fibery.com",
+  "repository": "https://github.com/Fibery-inc/fibery-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["fibery", "mcp", "workspace"],
+  "logo": "assets/logo.svg"
+}
