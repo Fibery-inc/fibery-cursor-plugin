@@ -1,8 +1,8 @@
 # Fibery
 
-Cursor / Agent Plugin that connects to [Fibery](https://fibery.io) via the official remote MCP server.
+Fibery MCP server packaged as a Cursor plugin.
 
-Skills for common workflows are provided by the server after you authenticate.
+Connects to [Fibery](https://fibery.com) via the official remote MCP (`https://mcp.fibery.io/mcp`). Skills for common workflows are provided by the server after OAuth.
 
 **Repo:** https://github.com/Fibery-inc/fibery-cursor-plugin
 
@@ -23,7 +23,6 @@ No API tokens in the plugin. Auth is OAuth against Fibery.
 ## Local development
 
 ```bash
-# copy into a real directory (not a symlink to elsewhere)
 cp -R . ~/.cursor/plugins/local/fibery
 ```
 

@@ -2,13 +2,14 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "fibery",
   "version": "0.1.0",
-  "description": "Connect Cursor and Grok Bots to Fibery — workspace schema, queries, entities, and docs via Fibery's remote MCP (OAuth).",
+  "description": "Fibery MCP server packaged as a Cursor plugin",
   "author": {
     "name": "Fibery",
-    "email": "hello@fibery.io"
+    "email": "misha@fibery.io"
   },
-  "homepage": "https://fibery.io",
+  "homepage": "https://fibery.com",
   "repository": "https://github.com/Fibery-inc/fibery-cursor-plugin",
   "license": "MIT",
-  "keywords": ["fibery", "mcp", "workspace", "project-management", "knowledge-base"]
+  "keywords": ["fibery", "mcp", "workspace", "project-management", "knowledge-base"],
+  "logo": "assets/logo.svg"
 }
